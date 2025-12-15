@@ -1,0 +1,5 @@
+{
+  "name": "Neon Snake 3D",
+  "description": "A visually stunning 3D implementation of the classic Snake game. Features responsive design with touch controls for mobile and WASD/Arrow keys for desktop, built with React Three Fiber.",
+  "requestFramePermissions": []
+}
